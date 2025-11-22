@@ -2,11 +2,6 @@
 
 > 轻量级语音气泡梗图生成器 - 在任意图片上添加语音气泡和文字对白，快速生成可分享的 Meme PNG 图片
 
-![SpeechMeme.org](https://img.shields.io/badge/Version-1.0-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Framework](https://img.shields.io/badge/Framework-Next.js-black)
-![Style](https://img.shields.io/badge/Style-Tailwind_CSS-06B6D4)
-
 ## ✨ 特性
 
 - 🎨 **气泡编辑** - 支持 Rounded/Rectangle/Bruh 三种气泡样式
@@ -212,7 +207,7 @@ async function copyImageToClipboard(canvas) {
 
 ## 🤝 贡献指南
 
-我们欢迎所有形式的贡献！请查看 [CONTRIBUTING.md](CONTRIBUTING.md) 了解详细信息。
+我们欢迎所有形式的贡献！
 
 ### 开发流程
 
@@ -221,10 +216,6 @@ async function copyImageToClipboard(canvas) {
 3. 提交更改 (`git commit -m 'Add some amazing feature'`)
 4. 推送到分支 (`git push origin feature/amazing-feature`)
 5. 创建 Pull Request
-
-## 📝 许可证
-
-本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
 
 ## 🙏 致谢
 
@@ -236,7 +227,7 @@ async function copyImageToClipboard(canvas) {
 
 - 官网: [SpeechMeme.org](https://speechmeme.org)
 - 问题反馈: [GitHub Issues](https://github.com/your-repo/speech-meme/issues)
-- 邮箱: contact@speechmeme.org
+- 邮箱: hello@speechmeme.org
 
 ---
 
